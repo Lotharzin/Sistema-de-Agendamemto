@@ -1,57 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9" pages="3">
   <diagram name="Página-1" id="fXTKyUyb5vLoEgLHW7jo">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TAS_pUgRQpIgNhXg95rg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-1" target="TAS_pUgRQpIgNhXg95rg-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="280" as="targetPoint" />
+            <mxPoint x="360" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-1" value="Médico" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="340" width="60" height="120" as="geometry" />
+          <mxGeometry x="330" y="590" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TAS_pUgRQpIgNhXg95rg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-3" target="TAS_pUgRQpIgNhXg95rg-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_V7wtgp4dB96QxFXtUAd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-3" target="TAS_pUgRQpIgNhXg95rg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V7wtgp4dB96QxFXtUAd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-3" target="_V7wtgp4dB96QxFXtUAd-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-3" value="App" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="220" width="60" height="120" as="geometry" />
+          <mxGeometry x="640" y="210" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-4" target="TAS_pUgRQpIgNhXg95rg-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" as="targetPoint" />
+            <mxPoint x="450" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-4" target="TAS_pUgRQpIgNhXg95rg-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="50" as="targetPoint" />
+            <mxPoint x="530" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-4" target="TAS_pUgRQpIgNhXg95rg-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="60" as="targetPoint" />
+            <mxPoint x="320" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-4" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="60" height="120" as="geometry" />
+          <mxGeometry x="400" y="-70" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-8" value="CRUD de Usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-80" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="-230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-10" value="Agendar Consulta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-30" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-11" value="Notificar cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TAS_pUgRQpIgNhXg95rg-14" value="Cancelar consulta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-30" width="120" height="80" as="geometry" />
+          <mxGeometry x="250" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TAS_pUgRQpIgNhXg95rg-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="120" height="80" as="geometry" />
+        <mxCell id="_V7wtgp4dB96QxFXtUAd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TAS_pUgRQpIgNhXg95rg-16" target="_V7wtgp4dB96QxFXtUAd-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAS_pUgRQpIgNhXg95rg-16" value="Fazer relatórios após consulta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_V7wtgp4dB96QxFXtUAd-6" value="Armazenar dados dos Relatórios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
